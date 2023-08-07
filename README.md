@@ -1,6 +1,6 @@
 
 <p align=center>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=003366&height=160&section=header&text=SangHyun&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=003366&height=160&section=header&text=SangHyun&fontSize=60&&animation=fadeIn&fontColor=FFFFFF"></image>
 </p>
 <div align=center>
  <h3>📋 Introduce </h3>
