@@ -8,6 +8,7 @@
 <div align=center>
 	<p>소통하는 것을 좋아하며 꾸준한 공부를 통해 성장하고자 노력하는 백엔드 개발자 입니다.😎</p>
 </div>
+# 💪Skills
 <div align=center>
 	<h3>🚀 Tech Stack </h3>
 </div>
