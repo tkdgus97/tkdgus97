@@ -1,8 +1,8 @@
 # SANG HYUN 😎
 
 # 💬Introduce
-꾸준하게! 열심히! 공부하며 시도해보면서 성장하고자 노력하는 백엔드 개발자입니다!  
-소통, 지식 공유, 사이드 프로젝트 등등 모두 환영입니다!  
+꾸준하게! 열심히! 공부하며 시도해보면서 성장하고자 노력하는 백엔드 개발자입니다.  
+소통, 지식 공유, 사이드 프로젝트 등등 모두 환영입니다~    
   
 # 💪Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
